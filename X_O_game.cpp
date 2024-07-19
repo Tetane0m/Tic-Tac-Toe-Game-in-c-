@@ -36,7 +36,7 @@
         - Prints a message if the game is a tie.
         - Returns `true` if there is a tie.
 
-    project link
+    project link : https://github.com/Tetane0m/Tic-Tac-Toe-Game-in-c-.git .
 */
 
 #include <iostream>
